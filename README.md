@@ -66,7 +66,7 @@ python main.py
 ```
 
 * If the price is right (≤ your target) → you’ll get a ✨ surprise email ✨
-Testing for less than 2000:
+* Testing for less than 2000:
 <img width="1422" height="352" alt="image" src="https://github.com/user-attachments/assets/6a26e9fa-702d-424c-8ae7-47a8aa2d991f" />
 
 * If not, you’ll just see:
