@@ -101,5 +101,3 @@ MIT License — because sharing is caring.
 ---
 
 > ⚡ Fun fact: The book I tested this on was *cheaper than my last coffee*. ☕📖
-
-```
