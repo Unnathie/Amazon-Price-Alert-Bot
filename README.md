@@ -2,7 +2,7 @@
 Tired of refreshing Amazon every day to check if your favorite item’s price dropped?  
 Let this little Python bot do the stalking for you.  
 
-It watches a product, and when the price sneaks below your chosen target — 💌 *you get an email alert*.  
+It watches a product, and when the price sneaks below your chosen target 💌 *you get an email alert*.  
 No more impulse-buying at high prices. 😎  
 
 ---
